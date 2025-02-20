@@ -30,10 +30,8 @@ Bu proje, ESP8266, DHT22 sıcaklık ve nem sensörü, Blynk IoT platformu ve ser
 📷 **Blynk Arayüzü:**  
 |  |
 |--------|
-| <p align="center"><img src="assets/img/blynk_main.jpeg" alt="Blynk Ana Ekran" width="400"/></p>  
-| *Blynk Ana Ekran* |
+| <p align="center"><img src="assets/img/blynk_main.jpeg" alt="Blynk Ana Ekran" width="250"/></p>  
 
----
 
 ## 🔧 Bağlantılar  
 | Bileşen | ESP8266 Pin |  
@@ -67,7 +65,7 @@ Bu proje, ESP8266, DHT22 sıcaklık ve nem sensörü, Blynk IoT platformu ve ser
 📷 **Blynk Kurulum Ekranı:**  
 |  |  |
 |----------|----------|
-| <img src="assets/img/blynk_setup.jpeg" alt="Blynk Kurulum 1" width="400"/> | <img src="assets/img/blynk_setup2.jpeg" alt="Blynk Kurulum 2" width="400"/> |
+| <img src="assets/img/blynk_setup.jpeg" alt="Blynk Kurulum 1" width="250"/> | <img src="assets/img/blynk_setup2.jpeg" alt="Blynk Kurulum 2" width="250"/> |
 
 6️⃣ **Sistemi çalıştırın ve sıcaklık/nem değerlerini kontrol edin.** 🔥💧  
 

@@ -28,10 +28,8 @@ This project aims to create a **smart incubator** using ESP8266, DHT22 temperatu
 📷 **Blynk Interface:**  
 |  |
 |--------|  
-| <p align="center"><img src="assets/img/blynk_main.jpeg" alt="Blynk Main Screen" width="400"/></p>  
-| *Blynk Main Screen* |  
+| <p align="center"><img src="assets/img/blynk_main.jpeg" alt="Blynk Main Screen" width="250"/></p>  
 
----
 
 ## 🔧 Connections  
 | Component | ESP8266 Pin |  
@@ -65,7 +63,7 @@ This project aims to create a **smart incubator** using ESP8266, DHT22 temperatu
 📷 **Blynk Setup Screen:**  
 |  |  |
 |----------|----------|  
-| <img src="assets/img/blynk_setup.jpeg" alt="Blynk Setup 1" width="400"/> | <img src="assets/img/blynk_setup2.jpeg" alt="Blynk Setup 2" width="400"/> |  
+| <img src="assets/img/blynk_setup.jpeg" alt="Blynk Setup 1" width="250"/> | <img src="assets/img/blynk_setup2.jpeg" alt="Blynk Setup 2" width="250"/> |  
 
 6️⃣ **Run the system and check the temperature/humidity values.** 🔥💧  
 
